@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom"
-import { HeroesRoutes } from "../heroes/"
+
 import { LoginPage } from "../auth"
-import { Navbar } from "../ui"
+import { HeroesRoutes } from "../heroes/"
 
 export const AppRouter = () => {
     return (
